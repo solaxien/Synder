@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Night Drive",
+    "artist": "Nova Echo",
+    "albumArtUrl": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1000&q=80",
+    "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3"
+  },
+  {
+    "id": "2",
+    "title": "City Pulse",
+    "artist": "Lumen",
+    "albumArtUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1000&q=80",
+    "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3"
+  },
+  {
+    "id": "3",
+    "title": "Fragments",
+    "artist": "Aria Vale",
+    "albumArtUrl": "https://images.unsplash.com/photo-1461784121038-f088ca1e7714?auto=format&fit=crop&w=1000&q=80",
+    "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-9s.mp3"
+  }
+]
